@@ -2,7 +2,7 @@
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/ktr0731/go-ansisgr)](https://pkg.go.dev/github.com/ktr0731/go-ansisgr)
 [![GitHub Actions](https://github.com/ktr0731/go-ansisgr/workflows/main/badge.svg)](https://github.com/ktr0731/go-ansisgr/actions)
-[![codecov](https://codecov.io/gh/ktr0731/go-ansisgr/branch/master/graph/badge.svg?token=6IHRfCBs7K)](https://codecov.io/gh/ktr0731/go-ansisgr)  
+[![codecov](https://codecov.io/gh/ktr0731/go-ansisgr/branch/main/graph/badge.svg?token=6IHRfCBs7K)](https://codecov.io/gh/ktr0731/go-ansisgr)  
 
 `go-ansisgr` provides a SGR (Select Graphic Rendition, a part of ANSI Escape Sequence) parser.
 
